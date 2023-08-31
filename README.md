@@ -2,7 +2,7 @@
 
 I'm a graduate student in UChicago's [Computational Analysis and Public Policy](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) program. I have a passion for data science and experience in the consulting, financial services, and nonprofit sectors. 
 
-I'm currently working as a Data Science Intern at [UChicago's Crime Lab](https://urbanlabs.uchicago.edu/labs/crime), where I'm supporting the evaluation of randomized controlled trials by using natural language processing on video data. Previously, I led the Data Team at [Financial Health Network](https://finhealthnetwork.org/team/andrew-dunn/) as a Senior Manager. 
+I previously worked as a Data Science Research Assistant at [UChicago's Crime Lab](https://urbanlabs.uchicago.edu/labs/crime), where I supported the evaluation of randomized controlled trials by using natural language processing on video data. Before that, I led the Data Team at [Financial Health Network](https://finhealthnetwork.org/team/andrew-dunn/) as a Senior Manager. 
 
 My coursework at UChicago focuses on using Python, R, and SQL for applied data science. You can see a few of my projects at the links below:
 
