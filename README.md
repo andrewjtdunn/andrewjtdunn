@@ -12,4 +12,6 @@ My coursework at UChicago focuses on using Python, R, and SQL for applied data s
 
 * [A/B testing of messaging in a fintech app](https://finhealthnetwork.org/research/financial-health-solutions-increasing-savings-with-a-choice-at-onboarding/). I designed and implemented A/B testing of behavioral design-informed messaging in a fintech app, resulting in 31% higher enrollment in automated savings program and 42% greater savings balances for users. 
 
+Other (private) projects include: building an app for a national nonprofit using an LLM to automate previously manual text extraction from hundreds of documents, constructing a data processing pipeline and testing different machine learning techniques to improve the accuracy of predicted policing outcomes by 40%, and improving a customer classification model for a B2B fintech company.
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andrewjtdunn/)!
