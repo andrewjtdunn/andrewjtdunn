@@ -6,7 +6,7 @@ I previously worked as a Data Science Research Assistant at [UChicago's Crime La
 
 My coursework at UChicago focuses on using Python, R, and SQL for applied data science. You can see a few of my projects at the links below:
 
-* [Civic Lens website](https://civic-lens.org/). This open source site makes federal public commenting opportunities more accessible for the American public. I am lead backend engineer of this ongoing project, working with Django, PostgreSQL, and Python to manage the data pipeline for the site.
+* [Civic Lens website](https://civic-lens.org/). This open source site makes federal public commenting opportunities more accessible for the American public. I am lead backend engineer of this ongoing project, working with Django, PostgreSQL, and Python to manage the data pipeline for the site. Our code lives [here](https://github.com/uchicago-capp-30320/CivicLens).
 
 * [Predicting Observed Poverty Levels in Costa Rica](https://github.com/andrewjtdunn/Costa-Rican-Household-Poverty-Level-Prediction). Alongside three teammates, I tested different machine learning models, as well as techniques like ensemble learning, oversampling, and cross-validation to classify household-level poverty using observed characteristics. Our final model approached the top performing Kaggle models with a final Macro F1 score of .42. We summarized our approach and results in a [summary report](https://github.com/andrewjtdunn/Costa-Rican-Household-Poverty-Level-Prediction/blob/main/Summary%20Report.pdf).
 
