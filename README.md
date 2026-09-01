@@ -1,8 +1,11 @@
 # Hey, I'm Andrew 👋
 
-I'm a graduate of UChicago's [Computational Analysis and Public Policy](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) program. I have a passion for data science and experience in the consulting, financial services, and public sectors. My most recent work is as an AI strategy consultant and data science contractor.
+I'm a graduate of UChicago's [Computational Analysis and Public Policy](https://harris.uchicago.edu/academics/degrees/ms-computational-analysis-public-policy-mscapp) program. I have a passion for data science and experience in the consulting, financial services, and public sectors. My most recent work is as an Applied Data Scientist at Garner Health where I use data science to connect users with high quality healthcare
 
-I previously worked as a Data Science Research Assistant at [UChicago's Crime Lab](https://urbanlabs.uchicago.edu/labs/crime), where I supported the evaluation of randomized controlled trials by using natural language processing on video data. Before that, I led the Data Team at [Financial Health Network](https://finhealthnetwork.org/team/andrew-dunn/) as a Senior Manager. 
+A few of my previous roles:
+* a Senior Data Scientist Consultant at [Guidehouse](https://guidehouse.com/), integrating project management, data science, and AI solutions to solve client technical challenges
+* a Data Science Research Assistant at [UChicago's Crime Lab](https://urbanlabs.uchicago.edu/labs/crime), where I supported the evaluation of randomized controlled trials by using natural language processing on video data
+* Senior Manager of the Data Team at [Financial Health Network](https://finhealthnetwork.org/team/andrew-dunn/)
 
 You can see a few of my projects at the links below:
 
